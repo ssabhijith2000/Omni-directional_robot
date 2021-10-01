@@ -1,2 +1,2 @@
 # Omni-directional_robot
-This is the Arduino C code for an omni directional Robot
+This is the Arduino firmware for an omni directional Robot with 4 motors
